@@ -14,7 +14,7 @@
 }
 
 body {
-    background-color: var(--light);
+    background-color: var(--secondary);
     color: var(--dark);
     line-height: 1.6;
 }
@@ -153,5 +153,6 @@ footer {
         font-size: 2rem;
     }
 }
+
 
 
